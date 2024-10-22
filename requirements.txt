@@ -1,4 +1,4 @@
 transformers
 streamlit
 requests
-tensorflow
+pytorch
