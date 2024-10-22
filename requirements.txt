@@ -1,3 +1,5 @@
-streamlit==1.23.1
+streamlit==1.39.0
 requests==2.31.0
 transformers==4.31.0
+pillow==9.5.0
+tokenizers==0.13.3
